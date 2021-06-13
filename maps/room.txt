@@ -1,0 +1,32 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X       >              <       X
+X       >              <       X
+X       >              <       X
+X       >              <       X
+X    B  BBBBBBBBBBBBBBBBBBB    X
+X    B                         X
+X    B                         X
+XvvvvB                    BvvvvX
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X    B                    B    X
+X^^^^B                    B^^^^X
+X                         B    X
+X                         B    X
+X    BBBBBBBBBBBBBBBBBBB  B    X
+X       >              <       X
+X       >              <       X
+X       >              <       X
+X       >              <       X
+XXXXXXXXXXXXXXXXXXXXXXXX   ~~~ X

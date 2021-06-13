@@ -1,0 +1,31 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        >            <        X
+X        >            <        X
+X        AAAAAAAAAAAAAA        X
+X                              X
+X                              X
+X        AAAAAAAAAAAAAA        X
+X        >            <        X
+X        >            <        X
+X        B            B        X
+X                              X
+X                              X
+X            BB  BB            X
+X            ~<  >~            X
+X            ~<  >~            X
+X            BB  BB            X
+X                              X
+B                              B
+<                              >
+<                              >
+B                              B
+X                              X
+X                              X
+X                              X
+X        AAAAAAAAAAAAAA        X
+X        >>>>>>>>>>> <         X
+X        >>>>>>>>>>> <         X
+X        AAAAAAAAAAAAAA        X
+X                              X
+X                              X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

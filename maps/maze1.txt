@@ -1,0 +1,32 @@
+IIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+I            A     A     A     A
+I            A     A     A  A  A
+A    AAA  A  AAAA  A  A     A  A
+A    A    A     A     A     A  A
+A    A    A     A     AAAA  A  A
+A  AAAAAAAA  A  AAAAAAA     A  A
+A     A      A  A     A     A  A
+A     A      A  A     AvvB  AAAA
+AAAA  A  AAAAA  A  A  A        A
+B     AvvA         A           A
+B     BBBB         A     AAAA  B
+B  B    >B  AAAAAAAAAAAAAA<    B
+BvvB    >B  A     B  BBBBB<    B
+BBBB  BBBB  A     B  BB^^BBBB  B
+B  B  B^^B     B  B  BB     B  B
+B  B  B  B     B  B  BB     B  B
+B        BBBBBBB  B  BB  B  B  B
+B        B        B      B     B
+BBBBBBBBBB        B      B     B
+C        BBBBBBBBBB  BBBBBBBBBBB
+C        C  >   C       C  <   C
+C  AAAA  C  >   C       C  <   C
+C     A  CCCCC  CvCCCC  CCCCC  C
+C     A         C C     C      C
+CCCC  A         C^C     C      C
+C^^C     CCCCC    C  CCCC  CCCCC
+C  C     C        C  C  C  C   C
+C  CCCCCCC      CCCCCC  C  C   C
+C           C           C      O
+C           C           C      O
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCOOO

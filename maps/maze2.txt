@@ -1,0 +1,31 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<   X      X   >X   X  X  ^    X
+<   X      X   >X Xv     X   X X
+<   XvvX   X   >X     X   X    X
+X   XXXX   X   XX X^  < X  >   X
+X              XX     X   vX   X
+X              XXXXXXXXXXXXX   X
+X   XXXXXXXXXXXXX^^X     XXX   X
+X   >   <   >   X  X 1 2 X<    X
+X   >   <   >   X  X     X<    X
+X   >   <   >   X  X     X<    X
+X   XXXXX   XXXXXvvXX   XXXX   X
+X      >X   X<     >X   X<     X
+X      >X   X<     >X   X<     X
+X      >X   X<     >X   X<     X
+XXXXXXXXX   XXXXXXXXX   XXXX   X
+X                 >XX   X<     X
+X                 >XX   X<     X
+X   XXXXXX  X     >XX   X<     X
+X   X    Xv X    XXXX   XXXXXXXX
+XvvvX  XvX vX       >   <      X
+X   XvvX    X       >   <      X
+X^^^X       XXXXXXXXX   XXXXX  X
+X   X 0     Xv  3X  >   <   X  X
+X^^^X       XXXXXX  X   XX  X  X
+X   X^^X    X<   X  X   >X     X
+X^^^X  X^X^ X<   X  X   >X     X
+X   X  X X ^XXX  X  XXXXXXXXXXXX
+X      X X  X        X   X   X^X
+X      X    X^         X   X < X
+XXXXXXXXXXXXXYXXXXXXXXXXXXXXXXXX

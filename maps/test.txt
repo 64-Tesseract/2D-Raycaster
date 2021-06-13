@@ -1,0 +1,31 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                              X
+X                              X
+X        >               <  0  X
+X      A                       X
+X                              X
+X        >               <  1  X
+X      A                       X
+X                              X
+X        >               <  2  X
+X      A                       X
+X                              X
+X        >               <  3  X
+X      A                       X
+X                              X
+X        >               <  4  X
+X      A                       X
+X                              X
+X        >               <  5  X
+X      A                       X
+X                              X
+X        >               <  6  X
+X      A                       X
+X                              X
+X        >               <  7  X
+X      A                       X
+X                              X
+X        >               <  8  X
+X      A                       X
+X                              X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
